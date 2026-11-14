@@ -12,3 +12,4 @@ Deriva de: [MPF00462972](https://github.com/justiciaparamargarita/mpf00462972), 
 - 2020-08-11 [Fiscalia ufeste resolucion denuncia](2020/08/11/fiscalia_ufeste_resolucion_denuncia.e0261.md)
 - 2020-12-14 [Fiscalia camara este resolucion revision](2020/12/14/fiscalia_camara_este_resolucion_revision.e0402.md)
 - 2020-12-14 [Mail «Fiscalía de Cámara PCyF Este: Notificacion» · yo → fiscameste@](2020/12/14/hilo-fiscalia-de-camara-pcyf-este-notificacio.e0402.md)
+- 2026-11-13 [Mail «Solicito copia íntegra del expediente»](2026/11/13/solicito-copia-integra-del-expediente.e1629.md)
